@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962067887267",
+    "firebase_url": "https://genericmed-da0e3.firebaseio.com",
+    "project_id": "genericmed-da0e3",
+    "storage_bucket": "genericmed-da0e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962067887267:android:cff172ec71dea943",
+        "android_client_info": {
+          "package_name": "com.example.genericmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962067887267-b4f8p48rjcp2l79j7cu657pb2k5lfnca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.genericmed",
+            "certificate_hash": "dd91ca41605857e4e72652a4fd0f6e34f154d998"
+          }
+        },
+        {
+          "client_id": "962067887267-835o18nqeh86u8p79pvp7at2tr5q20a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW3YbOHqRZa8kPKsHWgEVf4xhKQUDw1jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962067887267-835o18nqeh86u8p79pvp7at2tr5q20a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

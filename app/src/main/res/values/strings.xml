@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GenericMed</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_by_disease">Search By Disease</string>
+    <string name="search_by_medicine">Search By Medicine</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type Name…</string>
+
+    <string-array name="array_disease">
+        <item>Alzheimer</item>
+        <item>Asthma</item>
+        <item>Cough and Cold</item>
+        <item>Diabetes</item>
+        <item>Fever</item>
+        <item>Heart Failure</item>
+        <item>Kidney Disease-Stones</item>
+        <item>Malaria</item>
+        <item>Vomitting-Emesis</item>
+    </string-array>
+
+</resources>
